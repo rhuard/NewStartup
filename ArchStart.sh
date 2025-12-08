@@ -24,5 +24,10 @@ ctags \
 aspell-en \
 dictd \
 dict-moby-thesaurus \
+pavucontrol \
+pamixer \
+pulseaudio \
+pulseaudio-alsa \
+pasystray
 
 $HOME/NewStartup/Common.sh
